@@ -4,7 +4,9 @@
 # except for .gitignore
 !.gitignore
 *~
-
+*.ipr
+*.iml
+*.iws
 # Ignore Play! working directory #
 db
 eclipse
